@@ -2,3 +2,8 @@ version: 1.2
 workflows:
    - subclass: GALAXY
      primaryDescriptorPath: /Dockstore.ga
+     authors:
+       - name: Me1
+         orcid:  0000-0002-6130-1021 
+       - name: Me2
+         orcid:  0000-0002-1983-4588 
