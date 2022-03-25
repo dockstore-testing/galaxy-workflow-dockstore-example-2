@@ -4,4 +4,5 @@ workflows:
      primaryDescriptorPath: /Dockstore.ga
      authors:
        - orcid:  0000-0002-6130-1021 
+       - orcid:  0000-0002-1983-4588
        - orcid:  0000-0002-1983-4588 
